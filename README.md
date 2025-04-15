@@ -2,6 +2,8 @@
 
 Una herramienta sencilla para cargar sitios web usando una API de scraping y renderizado, todo embebido en un `iframe`. Perfecto para visualizar sitios rápidamente sin salir de la interfaz.
 
+![image](https://github.com/user-attachments/assets/f255bfd6-183c-49f0-89ec-9ff98f8b324f)
+
 ## 🚀 ¿Qué hace esta herramienta?
 
 Permite ingresar una URL en un campo de texto y visualizar la página solicitada directamente en un iframe usando la API de [ScrapingBee](https://www.scrapingbee.com/).
@@ -56,5 +58,4 @@ La URL ingresada se envía a ScrapingBee, que renderiza la página y retorna el 
 
 ## 👨‍💻 Autor
 > Bsz Programy
-![image](https://github.com/user-attachments/assets/7027c0ef-ae25-4356-b0e0-9bccedae83d9)
 
