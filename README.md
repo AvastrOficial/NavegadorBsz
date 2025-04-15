@@ -56,3 +56,5 @@ La URL ingresada se envía a ScrapingBee, que renderiza la página y retorna el 
 
 ## 👨‍💻 Autor
 > Bsz Programy
+![image](https://github.com/user-attachments/assets/7027c0ef-ae25-4356-b0e0-9bccedae83d9)
+
